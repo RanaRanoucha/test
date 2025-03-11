@@ -4,7 +4,6 @@ def somme (T):
         s+=t
         return S
 Data =[1,3,5]
-
 som=sum(Data)
 print ('la somme est:',som)
 
